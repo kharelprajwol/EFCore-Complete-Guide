@@ -1,0 +1,144 @@
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.exe
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.deps.json
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.runtimeconfig.json
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Azure.Core.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Azure.Identity.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Humanizer.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.CodeDom.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Memory.Data.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_DataAccess.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_DataAccess.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.AssemblyReference.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.AssemblyInfoInputs.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.AssemblyInfo.cs
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.CopyComplete
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\refint\EFCoreCompleteGuide_Console.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.genruntimeconfig.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\ref\EFCoreCompleteGuide_Console.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.exe
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.deps.json
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.runtimeconfig.json
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Console.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Azure.Core.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Azure.Identity.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Humanizer.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.CodeDom.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Memory.Data.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_DataAccess.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_DataAccess.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\bin\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.AssemblyReference.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.AssemblyInfoInputs.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.AssemblyInfo.cs
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.CoreCompileInputs.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.csproj.CopyComplete
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\refint\EFCoreCompleteGuide_Console.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\EFCoreCompleteGuide_Console.genruntimeconfig.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Console\obj\Debug\net7.0\ref\EFCoreCompleteGuide_Console.dll

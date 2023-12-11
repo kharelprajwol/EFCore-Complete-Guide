@@ -1,0 +1,22 @@
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.deps.json
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.AssemblyInfoInputs.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.AssemblyInfo.cs
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.csproj.CoreCompileInputs.cache
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\refint\EFCoreCompleteGuide_Model.dll
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\ASP.NET Core\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\ref\EFCoreCompleteGuide_Model.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.deps.json
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\bin\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.AssemblyInfoInputs.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.AssemblyInfo.cs
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.csproj.CoreCompileInputs.cache
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\refint\EFCoreCompleteGuide_Model.dll
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\EFCoreCompleteGuide_Model.pdb
+F:\.NET\EFCoreCompleteGuide\EFCoreCompleteGuide_Model\obj\Debug\net7.0\ref\EFCoreCompleteGuide_Model.dll
